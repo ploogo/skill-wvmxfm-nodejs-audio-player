@@ -12,7 +12,6 @@
     "audio player"
   ],
   "author": "Saga Communications, Inc.",
-//  "private": true,
   "license": "UNLICENSED",
   "dependencies": {
     "alexa-sdk": "^1.0.4"
